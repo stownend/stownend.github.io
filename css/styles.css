@@ -11009,35 +11009,6 @@ footer.footer .social-link:hover {
 .banner-image {
   width: 128px;
 }
-.left-image {
-  display:flexbox;
-  min-height: 10rem;
-  position: relative;
-  /* display: table; */
-  /* width: 100%; */
-  /* height: auto; */
-  /* padding-top: 8rem;
-  padding-bottom: 8rem; */
-  background: url("../assets/img/invaders.png");
-  /* background-position: center center; */
-  background-repeat: no-repeat;
-  /* background-size: cover; */
-}
-
-.right-image {
-  min-height: 10rem;
-  position: relative;
-  /* display: table; */
-  /* width: 100%; */
-  /* height: auto; */
-  /* padding-top: 8rem;
-  padding-bottom: 8rem; */
-  background: url("../assets/img/plumber.png");
-  /* background-position: center center; */
-  background-repeat: no-repeat;
-  /* background-size: cover; */
-}
-
 .masthead {
   min-height: 30rem;
   position: relative;
